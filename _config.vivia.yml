@@ -36,7 +36,10 @@ archive_type: "monthly"
 recent_posts_limits: 5
 categories:
   max_depth: # Maximum depth of categories displayed in the widget (null for unlimited)
-
+tags:
+  - vue
+  - golang
+  - file
 # Personal info
 avatar:
 author: Reese Lin
