@@ -24,6 +24,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-stellar": "^1.19.0",
-    "hexo-theme-vivia": "^0.4.2"
+    "hexo-theme-vivia": "^0.5.0"
   }
 }
